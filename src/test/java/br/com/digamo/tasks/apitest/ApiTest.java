@@ -102,7 +102,6 @@ public class ApiTest {
 				.statusCode(204)
 			;
 		
-		
 	}
 
 }
